@@ -1,2 +1,1 @@
-# My-first-repo
-8 puzzle game 
+This is my First Github repository!
